@@ -1,0 +1,2 @@
+# add_different_watermarks_to_different_lot_pdfs
+给不同的pdf添加自定义文字水印（稍微修改也可以支持图片水印）
