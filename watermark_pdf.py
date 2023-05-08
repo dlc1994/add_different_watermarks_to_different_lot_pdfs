@@ -52,7 +52,7 @@ def read_csv(file_path):
     return watermarks
 
 if __name__ == "__main__":
-    print("hello, pardon")
+    print("hello, someone")
     print(sys.argv[1:])
     input_name = sys.argv[1:][0]
     font_name = sys.argv[1:][1]
